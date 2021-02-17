@@ -4,4 +4,4 @@ ENV PYLINT_VERSION=2.6.0
 
 RUN apk add --no-cache \
     git \
-    && pip install pylint==PYLINT_VERSION
+    && pip install pylint==$PYLINT_VERSION
