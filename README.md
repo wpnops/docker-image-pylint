@@ -2,7 +2,7 @@
 
 [![License][license-shield]](LICENSE)
 
-![Project state](https://img.shields.io/static/v1?label=STATE&message=Production%20Ready&color=brightgreen)
+[![Project state](https://img.shields.io/static/v1?label=STATE&message=Production%20Ready&color=brightgreen)](https://hub.docker.com/r/wpninfra/pylint)
 [![Build Status](https://github.com/wpnops/docker-image-pylint/workflows/CI%20to%20Docker%20hub/badge.svg)](https://github.com/wpnops/docker-image-pylint/actions)
 
 ## Docker status
