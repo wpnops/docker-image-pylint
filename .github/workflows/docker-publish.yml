@@ -7,8 +7,10 @@ on:
       - v*
 env:
   IMAGE_NAME: pylint
+jobs:
   test:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
 
