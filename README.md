@@ -26,7 +26,7 @@ pylint:
 
 ## Authors & contributors
 
-The Build pipeline is large based on [pipeline-components build stage][pipeline-components]
+The Build pipeline is largely based on [pipeline-components build stage][pipeline-components]
 
 ## License
 
